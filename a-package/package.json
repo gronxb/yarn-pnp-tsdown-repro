@@ -1,0 +1,8 @@
+{
+  "name": "a-package",
+  "packageManager": "yarn@4.8.0",
+  "devDependencies": {
+    "tsdown": "^0.11.5",
+    "typescript": "^5.8.3"
+  }
+}
