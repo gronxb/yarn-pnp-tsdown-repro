@@ -1,7 +1,8 @@
 {
   "name": "root",
   "workspaces": [
-    "a-package"
+    "a-package",
+    "b-package"
   ],
   "packageManager": "yarn@4.8.0"
 }

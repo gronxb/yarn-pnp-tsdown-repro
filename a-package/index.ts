@@ -1,11 +1,3 @@
-interface IUser {
-  name: string;
-  age: number;
+export function add(a: number, b: number) {
+  return a + b;
 }
-
-const user: IUser = {
-  name: "John",
-  age: 30,
-};
-
-console.log(user);
